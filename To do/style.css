@@ -1,0 +1,47 @@
+
+html,body{
+  background-color: rgb(217, 196, 237);
+    width: 50%;
+    margin: 150px auto;
+    background-image: url("nkar_for back2.jpg");
+    
+
+}
+.container {
+
+    width:360px;
+    height:50px;
+    border: 2px solid black;
+    outline: none;
+    font-size: 20px;
+    vertical-align: middle;
+
+}
+
+#inputfield{
+width: 300px;
+height: 46px;
+border: 1px solid black;
+outline: none;
+font-size: 25px;
+vertical-align: middle;
+
+}
+#addToDo {
+
+    height: 10;
+    width: 30px ;
+    border: 2px solid black;
+    vertical-align: middle;
+    font-size: 25px;
+
+}
+
+
+.to-doc{
+    font-size: 30px;
+ color:black;
+ margin-top: 25px;
+}
+
+

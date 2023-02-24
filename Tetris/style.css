@@ -1,0 +1,19 @@
+.matrix {
+    width: 450px;
+    height: 850px;
+    border: 1px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+
+.yellow {
+    background-color: yellow;
+}

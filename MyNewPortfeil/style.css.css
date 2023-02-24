@@ -1,0 +1,103 @@
+/* 
+.item {
+ display: flex;
+ background-color: bisque;
+ flex-direction: row;
+align-items: baseline;
+align-content: center;
+}
+
+.item:nth-child(1){
+ align-self: 100 px ; */
+
+ .body-div{
+display: block
+
+ }
+.main {
+    width: 250 px;
+    display: block;
+    margin: 1px solid black;
+  
+} 
+.item4 {
+    display: auto ;
+  ;
+
+
+}
+
+#edu {
+
+    background-color : gold
+}
+#about{
+    background-color:  gold;
+}
+
+.prog {
+    color : red;
+    
+}
+.hi {
+    font-size:50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:yellow  ;
+    align-items: flex-start;
+    
+}
+.welcome {
+    color : yellow ;
+
+}
+.newPages  {
+   
+    font-style: italic;
+    font-size: 30px ;
+     display: flex;
+    flex-direction: column ;
+    
+    align-items: center
+}
+.number {
+    font-style: italic;
+        font-size: larger;
+        display: flex;
+        flex-direction: row;
+    
+        align-items: flex-start
+}
+
+body {
+    background-color: rgb(227, 227, 243)
+}
+
+
+.nkar {
+    display: block ;
+    align-items: flex-end;
+    margin: 50px,400px 300px 50px;
+
+
+}
+
+.me {
+  font-size: 30px
+}
+
+.pictures {
+    display: inline-block;
+    width: auto;
+    height:auto;
+    flex-direction: row;
+    flex-flow: column ;
+    margin-left:30%;
+    border: 5px solid black  ;
+    padding:10px;
+    
+}
+.Languages{
+    text-decoration: none;
+}
